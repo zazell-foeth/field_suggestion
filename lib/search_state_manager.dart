@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 class SearchState<T> {
   /// A async snapshot value of [List] of [T], used as main matchers holder of the state.
