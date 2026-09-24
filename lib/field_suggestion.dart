@@ -7,7 +7,7 @@ import 'package:field_suggestion/search_state_manager.dart';
 import 'utils.dart';
 import 'styles.dart';
 import 'box_controller.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 export 'package:field_suggestion/styles.dart';
 export 'package:field_suggestion/box_controller.dart';
